@@ -45,4 +45,3 @@ def blog_detail(request, pk):
     }
 
     return render(request, "blog_detail.html", context)
-#test push upstream
